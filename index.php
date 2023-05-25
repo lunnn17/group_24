@@ -466,7 +466,7 @@ include 'header.php';
 					<h2>Start today to get more exposure and
 					grow your business</h2>
 					<ul class="list-inline mt-30">
-						<li class="list-inline-item"><a class="btn btn-main" href="ad-listing.html">Add Listing</a></li>
+						<li class="list-inline-item"><a class="btn btn-main" href="ad-listing.php">Add Listing</a></li>
 						<li class="list-inline-item"><a class="btn btn-secondary" href="category.html">Browser Listing</a></li>
 					</ul>
 				</div>
