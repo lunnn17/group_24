@@ -64,7 +64,7 @@ echo'
 								<!-- Dropdown list -->
 								<ul class="dropdown-menu">
 									<li><a class="dropdown-item @@category" href="category.html">Ad-Gird View</a></li>
-									<li><a class="dropdown-item @@listView" href="ad-list-view.html">Ad-List View</a></li>
+									<li><a class="dropdown-item @@listView" href="ad-list-view.php">Ad-List View</a></li>
 									
 									<li class="dropdown dropdown-submenu dropleft">
 										<a class="dropdown-item dropdown-toggle" href="#!" id="dropdown0201" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sub Menu</a>
